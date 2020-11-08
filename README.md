@@ -1,3 +1,3 @@
-# notion-embed
+# Notion Widget
 
-Thank you: https://blog.shorouk.dev/2020/06/how-to-embed-any-number-of-html-widgets-snippets-into-notion-app-for-free/
+Thanks to: https://blog.shorouk.dev/2020/06/how-to-embed-any-number-of-html-widgets-snippets-into-notion-app-for-free/
